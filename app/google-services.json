@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507711519032",
+    "project_id": "cottoncalculator-e89cb",
+    "storage_bucket": "cottoncalculator-e89cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507711519032:android:6066e8fd2662e44ee329cd",
+        "android_client_info": {
+          "package_name": "com.gor.cottoncalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLMY7DZznGPG0eNhwJI8Nq8dAgFtcVH3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
